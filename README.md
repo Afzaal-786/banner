@@ -4,9 +4,9 @@ Termux Banner Tool
 $pkg install git
 
 
-$git clone https://github.com/Nay-Htet007/Termux-Banner
+$git clone https://github.com/Afzaal-786/banner.git
 
-$cd Termux-Banner
+$cd banner
 
 $chmod +x requirememt.sh
 
