@@ -1,1 +1,1 @@
-# banner
+# termux banner
